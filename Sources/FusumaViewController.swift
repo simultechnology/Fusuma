@@ -37,7 +37,7 @@ fileprivate func > <T : Comparable>(lhs: T?, rhs: T?) -> Bool {
  
     func fusumaDismissedWithImage(_ image: UIImage, source: FusumaMode)
     func fusumaClosed()
-    func fusumaWillClosed()
+    //func fusumaWillClosed()
 }
 
 public extension FusumaDelegate {
